@@ -1,0 +1,12 @@
+.score-board {
+    margin-bottom: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .score {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 10px;
+  }

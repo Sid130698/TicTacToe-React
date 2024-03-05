@@ -1,0 +1,13 @@
+.row{
+    display: flex;
+}
+
+.game-board {
+    text-align: center;
+    justify-content: center;
+    width: 180px;
+    height: 180px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 5px;
+  }
